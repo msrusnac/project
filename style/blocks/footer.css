@@ -1,0 +1,33 @@
+
+.footer {
+  height: 146px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+
+}
+
+.footer__col {
+  display: flex;
+  align-items: center;
+}
+
+.footer__col--align--right {
+  align-items: flex-end;
+}
+
+.footer__shedule {
+  font-style: normal;
+}
+
+.contacts__description{
+  color: #9A9A9A;
+  font-size: 11px;
+}
+
+.footer-container {
+  margin-top: auto;
+  
+}

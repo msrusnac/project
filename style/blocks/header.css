@@ -1,0 +1,53 @@
+.header {
+  
+  padding-top: 27px;
+  margin-bottom: 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__col {
+  display: flex;
+  align-items: center;
+
+}
+
+.header__col--align--right {
+  justify-content: flex-end;
+}
+
+ /* .header__logo {
+  margin-right: 78px; 
+}  */
+
+
+.contacts {
+  
+  text-align:right;
+  
+}
+
+.tel__link{
+  font-size: 26px;
+  line-height: 35px;
+  color: white;
+  text-decoration: none;
+  display: block;
+  margin-right: -3px;
+  margin-top: -6px;
+}
+
+.contacts__description {
+  
+  margin-bottom: 8px;
+}
+
+.header__shedule-link{
+  color: white;
+  float: right;
+  display: inline-block;
+  font-size: 13px;
+  margin-top: -5px;
+  text-decoration: none;
+}

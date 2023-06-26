@@ -1,0 +1,29 @@
+.nav {
+  
+}
+
+/* .header__nav{
+  position: relative;
+  top: -9px;
+} */
+
+
+.nav__item {
+  display: inline-block;
+}
+
+.nav__link:hover{
+  color: #DA0100;
+}
+
+.nav__link{
+  color: white;
+  text-decoration: none;
+  margin-right: 50px;
+  font-size: 14px;
+
+}
+
+.nav__item--active .nav__link{
+  color: #DA0100;
+}

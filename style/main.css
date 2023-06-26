@@ -1,0 +1,24 @@
+@import url('./layout/fonds.css');
+@import url('./layout/normalize.css');
+@import url('./layout/base.css');
+
+@import url('./blocks/header.css');
+@import url('./blocks/logo.css');
+@import url('./blocks/nav.css');
+@import url('./blocks/hero.css');
+@import url('./blocks/section__first.css');
+@import url('./blocks/second_section.css');
+@import url('./blocks/third_section.css');
+@import url('./blocks/pager.css');
+@import url('./blocks/footer.css');
+@import url('./blocks/socials.css');
+
+/* services page */
+
+@import url('./blocks/top-line-service.css');
+@import url('./blocks/service-content.css');
+@import url('./blocks/partners.css');
+@import url('./blocks/inner-footer.css');
+
+
+
