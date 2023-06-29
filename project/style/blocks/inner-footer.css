@@ -1,0 +1,16 @@
+.inner-footer {
+  background: #001821;
+}
+
+.footer-container__section {
+  height: 132px;
+  margin-top: 12px;
+}
+
+.inner-footer__container {
+  padding: 45px 0;
+}
+
+.inner-footer {
+  margin-top: auto;
+}

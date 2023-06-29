@@ -1,0 +1,42 @@
+.hero{
+  padding-top: 64px; 
+  padding-left: 6px;
+   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 257px;
+
+}
+
+
+
+.h1{
+  color: white;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 98px;
+}
+
+.hero__title {
+  width: 510px;
+}
+
+.hero__description{
+  color: white;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 400;
+  
+  position: absolute;
+  margin-top: -22px;
+
+}
+
+.hero__button {
+  margin-top: 26px;
+  background-color: #F5170E;
+  color: white;
+  border: none;
+ 
+  
+}
