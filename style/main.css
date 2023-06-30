@@ -20,5 +20,11 @@
 @import url('./blocks/partners.css');
 @import url('./blocks/inner-footer.css');
 
+/* reviews page */
 
+@import url('./blocks/review.css');
+
+/* welcome page */
+
+@import url('./blocks/welcome.css');
 
