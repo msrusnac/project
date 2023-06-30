@@ -33,9 +33,10 @@
   padding: 18px 58px;
 }
 .central__logo {
+
   display: flex;
-  width: 279px;
-  height: 119px;
+  /* width: 279px;
+  height: 119px; */
   margin-bottom: 6px;
 }
 

@@ -55,34 +55,34 @@
   transition: .3s;
 }
 .social__item--icon--telegram .social__link {
-   background-image: url(../../img/sprite.png) -122px -66px; 
+   background: url(../../img/sprite.png) -122px -66px; 
  
 } 
 
 .social__item--icon--telegram .social__link:hover {
-  background-image: url(../../img/sprite.png) -66px -122px;
+  background: url(../../img/sprite.png) -66px -122px;
 }
 
 .social__item--icon--vk .social__link {
-  background-image: url(../../img/sprite.png) -10px -122px;
+  background: url(../../img/sprite.png) -10px -122px;
 }
 
 .social__item--icon--vk .social__link:hover {
-  background-image: url(../../img/sprite.png) -122px -10px;
+  background: url(../../img/sprite.png) -122px -10px;
 }
 
 .social__item--icon--fb .social__link {
-  background-image: url(../../img/sprite.png) -66px -10px;
+  background: url(../../img/sprite.png) -66px -10px;
 }
 
 .social__item--icon--fb .social__link:hover {
-  background-image: url(../../img/sprite.png) -66px -66px;
+  background: url(../../img/sprite.png) -66px -66px;
 }
 
 .social__item--icon--instagram .social__link {
-  background-image: url(../../img/sprite.png) -10px -10px;
+  background: url(../../img/sprite.png) -10px -10px;
 }
 
 .social__item--icon--instagram .social__link:hover {
-  background-image: url(../../img/sprite.png) -10px -66px;
+  background: url(../../img/sprite.png) -10px -66px;
 }

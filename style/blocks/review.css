@@ -64,6 +64,7 @@
   height: 142px;
   overflow: hidden;
   border-radius: 50%;
+ 
 }
 
 .review__title {
@@ -86,7 +87,7 @@
 }
 
 .separator {
-  background:url(../../img/couple.png) right 28% bottom no-repeat, url(../../img/Rectanglereview.png) bottom no-repeat;
+  background:url(../../img/couple.png) right 10% bottom no-repeat, url(../../img/Rectanglereview.png) bottom no-repeat;
   color: white;
   min-height: 363px;
   display: flex;
@@ -94,9 +95,7 @@
   justify-content: center;
 }
 
-.separator__content {
-  max-width: 50%;
-}
+
 
 .separator__title {
   font-size: 48px;
@@ -126,7 +125,12 @@
   background: white;
   padding: 22px 30px;
   font-size: 18px;
-  color: #1A1B1E;;
+  color: #1A1B1E;
+  outline: none;
+}
+
+.form__input:focus {
+  border: 1px solid #F5170E;
 }
 
 .form__input::placeholder {
