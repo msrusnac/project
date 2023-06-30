@@ -86,7 +86,7 @@
 }
 
 .separator {
-  background:url(../img/couple.png) right 28% bottom no-repeat, url(../img/Rectanglereview.png) bottom no-repeat;
+  background:url(../../img/couple.png) right 28% bottom no-repeat, url(../../img/Rectanglereview.png) bottom no-repeat;
   color: white;
   min-height: 363px;
   display: flex;
